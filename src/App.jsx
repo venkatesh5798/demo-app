@@ -7,8 +7,8 @@ function App() {
   const [count, setCount] = useState(0)
 
   const user={
-    name:"venkat",
-    age:"34",
+    name:"ram",
+    age:"40",
     location:"chennai"
   }
 
